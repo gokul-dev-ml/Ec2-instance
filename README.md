@@ -26,7 +26,8 @@ The instance was launched in the **US East (N. Virginia) – us-east-1** region 
 
 ## EC2 Instance Dashboard
 
-![EC2 Instance Screenshot](./images/ec2-dashboard.png)
+<img width="1290" height="567" alt="Screenshot From 2026-05-24 08-41-37" src="https://github.com/user-attachments/assets/d5787549-8a78-41a0-a6e5-4d0ab038b038" />
+
 
 ---
 
@@ -173,3 +174,4 @@ https://github.com/gokul-dev-ml
 #  Tags
 
 AWS • EC2 • Cloud Computing • Windows Server • AWS Free Tier • Cloud Engineering • Networking • Infrastructure • DevOps • Linux • Cloud Projects
+
